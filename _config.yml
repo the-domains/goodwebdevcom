@@ -1,0 +1,14 @@
+layout_spectrum: 0.2540478913579136
+typography_spectrum: 0.674686495680362
+color:
+  brandStrength: 0.5974879977293313
+  lightness: 0.6264110929332674
+  saturation: 0.22503737919032574
+  rhythmicContrast: 0.582626128802076
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: goodwebdev.com
