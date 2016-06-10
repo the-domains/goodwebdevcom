@@ -6,9 +6,9 @@ color:
   saturation: 0.22503737919032574
   rhythmicContrast: 0.582626128802076
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: goodwebdev.com
